@@ -15,4 +15,4 @@
   </iframe>
 
 ## Testing third iframe
-<iframe src="https://alejandrokennedy.github.io/mapbox-scrollytelling-test/" name="alextest" scrolling="Yes" height="500" width="100%" style="border: none;"></iframe>
+<iframe src="https://alejandrokennedy.github.io/mapbox-scrollytelling-test/" name="alextest" scrolling="Yes" height="900" width="100%" style="border: none;"></iframe>
