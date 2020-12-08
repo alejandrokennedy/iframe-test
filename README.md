@@ -21,6 +21,6 @@
 ## Testing 4th - covid animation
 <iframe src="https://alejandrokennedy.github.io/covid-animation/"
     width="800"
-    height="700"
+    height="1547"
     frameborder="0">
   </iframe>
