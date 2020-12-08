@@ -18,9 +18,13 @@
     frameborder="0">
   </iframe>
 
-## Testing 4th - covid animation
+<!-- ## Testing 4th - covid animation 1.0
 <iframe src="https://alejandrokennedy.github.io/covid-animation/"
     width="800"
     height="1547"
     frameborder="0">
-  </iframe>
+  </iframe> -->
+
+## Testing 5th - covid animation 1.1
+<iframe src="https://alejandrokennedy.github.io/covid-animation/" class="sm-test"
+style="width: 100%; height: 1547px; border: 0px solid #ccc;"></iframe>
